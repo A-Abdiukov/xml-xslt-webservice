@@ -1,0 +1,286 @@
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\MovieWebsite.dll.config
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\MovieWebsite.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\MovieWebsite.pdb
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\csc.exe
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\csc.exe.config
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\csc.rsp
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\csi.exe
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\csi.exe.config
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\csi.rsp
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.AppContext.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Console.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.IO.Compression.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.IO.FileSystem.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.IO.Pipes.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Security.AccessControl.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Claims.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.ValueTuple.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.XPath.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\vbc.exe
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\vbc.exe.config
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\vbc.rsp
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\VBCSCompiler.exe
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\Antlr3.Runtime.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\AspNet.ScriptManager.jQuery.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\Microsoft.Web.Infrastructure.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\Newtonsoft.Json.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\System.Web.Optimization.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\WebGrease.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\System.Web.Optimization.xml
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\Newtonsoft.Json.xml
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\Antlr3.Runtime.pdb
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.csprojAssemblyReference.cache
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.csproj.CoreCompileInputs.cache
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.csproj.CopyComplete
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.dll
+D:\PeterHolman\mobile-skills\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.pdb
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\MovieWebsite.dll.config
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\MovieWebsite.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\MovieWebsite.pdb
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\csc.exe
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\csc.exe.config
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\csc.rsp
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\csi.exe
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\csi.exe.config
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\csi.rsp
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.AppContext.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Console.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.IO.Compression.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.IO.FileSystem.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.IO.Pipes.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Security.AccessControl.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Claims.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.ValueTuple.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.XPath.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\vbc.exe
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\vbc.exe.config
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\vbc.rsp
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\VBCSCompiler.exe
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\Antlr3.Runtime.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\AspNet.ScriptManager.jQuery.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\Microsoft.Web.Infrastructure.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\Newtonsoft.Json.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\System.Web.Optimization.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\WebGrease.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\System.Web.Optimization.xml
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\Newtonsoft.Json.xml
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\Antlr3.Runtime.pdb
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.csprojAssemblyReference.cache
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.csproj.CoreCompileInputs.cache
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.csproj.CopyComplete
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.dll
+D:\PeterHolman\mobile-skills\Skills Assessment\Assessment Resources\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.pdb
+C:\Users\Ash\Desktop\Assessments\Event 3 of 3 (Skills assessment)_Due soon John\Cl_MobileApps_AE_Sk_3of3_SR1\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.dll
+C:\Users\Ash\Desktop\Assessments\Event 3 of 3 (Skills assessment)_Due soon John\Cl_MobileApps_AE_Sk_3of3_SR1\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.pdb
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\MovieWebsite.dll.config
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\MovieWebsite.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\MovieWebsite.pdb
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\csc.exe
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\csc.exe.config
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\csc.rsp
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\csi.exe
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\csi.exe.config
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\csi.rsp
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.AppContext.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Console.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.IO.Pipes.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.AccessControl.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Claims.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\vbc.exe
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\vbc.exe.config
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\vbc.rsp
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\Antlr3.Runtime.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\Newtonsoft.Json.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\System.Web.Optimization.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\WebGrease.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\System.Web.Optimization.xml
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\Newtonsoft.Json.xml
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\Antlr3.Runtime.pdb
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Assessment2810\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.csprojAssemblyReference.cache
+C:\Assessment2810\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.csproj.CoreCompileInputs.cache
+C:\Assessment2810\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.csproj.CopyComplete
+C:\Assessment2810\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.dll
+C:\Assessment2810\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.pdb
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\MovieWebsite.dll.config
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\MovieWebsite.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\MovieWebsite.pdb
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\csc.exe
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\csc.exe.config
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\csc.rsp
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\csi.exe
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\csi.exe.config
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\csi.rsp
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.AppContext.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Console.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.IO.Pipes.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.AccessControl.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Claims.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\vbc.exe
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\vbc.exe.config
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\vbc.rsp
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\Antlr3.Runtime.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\AspNet.ScriptManager.jQuery.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\Newtonsoft.Json.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\System.Web.Optimization.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\WebGrease.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\System.Web.Optimization.xml
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\Newtonsoft.Json.xml
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\Antlr3.Runtime.pdb
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.csprojAssemblyReference.cache
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.csproj.CoreCompileInputs.cache
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.csproj.CopyComplete
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.dll
+C:\Cert 4 TAFE\Cert IV Assessments\Assessment2810\MovieSolution\MovieWebsite\obj\Debug\MovieWebsite.pdb

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movies>
+  <movie>
+    <Id>1</Id>
+    <title>Lord or the Strings</title>
+    <director>Ja Va Token</director>
+    <synopsis>
+			An evil wizard controls “Magic Strings” in a fantasy tale that will string you along to the last letter.
+			Invalid data types beware as “You shall not parse”.
+		</synopsis>
+  </movie>
+  <movie>
+    <Id>2</Id>
+    <title>The Ternarator</title>
+    <director>Bool Ian</director>
+    <synopsis>No if, else about it, a young programming terminates decisions in a single line.</synopsis>
+  </movie>
+  <movie>
+    <Id>3</Id>
+    <title>Double jeopardy</title>
+    <director>Ung Signed</director>
+    <synopsis>
+			Framed for using the wrong data type, a young programming was sentenced for a long time.
+			Trying to keep a float in troubled waters he sets out to find the real offender.
+		</synopsis>
+  </movie>
+  <movie>
+    <Id>4</Id>
+    <title>Byte club</title>
+    <director>Justin Time</director>
+    <synopsis>
+			Discontent with modern day languages, a young programmer starts an underground club for writing software purely in byte code.
+		</synopsis>
+  </movie>
+  <movie>
+    <Id>5</Id>
+    <title>Char wars</title>
+    <director>See Sharp</director>
+    <synopsis>
+			With a star studded cast of characters from a to z. This outer world sci-fi adventure finds a programing discovering her ability to use the source.
+		</synopsis>
+  </movie>
+</movies>
